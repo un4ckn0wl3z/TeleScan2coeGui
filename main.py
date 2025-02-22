@@ -16,7 +16,7 @@ class DragDropWindow(QMainWindow):
         self.setWindowIcon(QIcon(":/icons/icon.ico"))
         self.center_window()
 
-        self.label = QLabel("Drag your .COE file in", self)
+        self.label = QLabel("Drag your .tlscan file in", self)
         self.label.setAlignment(Qt.AlignCenter)
         self.setCentralWidget(self.label)
 
