@@ -1,0 +1,17 @@
+altgraph==0.17.4
+darkdetect==0.7.1
+Jinja2==3.1.5
+MarkupSafe==3.0.2
+Nuitka==2.6.6
+ordered-set==4.1.0
+packaging==24.2
+pefile==2023.2.7
+pyinstaller==6.12.0
+pyinstaller-hooks-contrib==2025.1
+PySide6==6.8.2.1
+PySide6_Addons==6.8.2.1
+PySide6_Essentials==6.8.2.1
+pywin32-ctypes==0.2.3
+qt-material==2.14
+shiboken6==6.8.2.1
+zstandard==0.23.0
